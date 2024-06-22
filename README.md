@@ -35,7 +35,7 @@ Prerequisites :
  ## Installation
 **Clone the repository:**
 
-git clone [https://github.com/your-username/NoteApp.git]
+git clone [https://github.com/Amit-Mehra07/NoteApp.git]
 
 Open the project in **Android Studio:**
 
